@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reserva-hoteles/static/css/main.ce87ae47.chunk.css",
+    "main.js": "/reserva-hoteles/static/js/main.769ea668.chunk.js",
+    "main.js.map": "/reserva-hoteles/static/js/main.769ea668.chunk.js.map",
+    "runtime-main.js": "/reserva-hoteles/static/js/runtime-main.a4e7d772.js",
+    "runtime-main.js.map": "/reserva-hoteles/static/js/runtime-main.a4e7d772.js.map",
+    "static/js/2.e8c7ff8d.chunk.js": "/reserva-hoteles/static/js/2.e8c7ff8d.chunk.js",
+    "static/js/2.e8c7ff8d.chunk.js.map": "/reserva-hoteles/static/js/2.e8c7ff8d.chunk.js.map",
+    "index.html": "/reserva-hoteles/index.html",
+    "static/css/main.ce87ae47.chunk.css.map": "/reserva-hoteles/static/css/main.ce87ae47.chunk.css.map",
+    "static/js/2.e8c7ff8d.chunk.js.LICENSE.txt": "/reserva-hoteles/static/js/2.e8c7ff8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4e7d772.js",
+    "static/js/2.e8c7ff8d.chunk.js",
+    "static/css/main.ce87ae47.chunk.css",
+    "static/js/main.769ea668.chunk.js"
+  ]
+}
