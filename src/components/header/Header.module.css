@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,800&display=swap');
+
+.header {
+  display: flex;
+  color: black;
+  justify-content: space-around;
+  width: 100%;
+  background: #222092;
+  background-size: cover;
+  height: auto;
+  padding: 20px 20px;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  background-color: rgb(27, 77, 240);
+  width: fit-content;
+  color: aliceblue;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 7px #fff;
+  border-radius: 10px;
+}
+
+.headerFechas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Otomanopee One', sans-serif;
+  width: max-content;
+  color: #fff;
+  /* background-color: rgba(248, 197, 197, 0.993); */
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.headerFiltros {
+  font-family: 'Otomanopee One', sans-serif;
+  background-color: rgb(233, 242, 250);
+  width: max-content;
+  padding: 5px;
+  border-radius: 10px;
+  border: solid 3px rgba(52, 161, 204, 0.993);
+}
+
+@media screen and (max-width: 850px) {
+  .header {
+    flex-wrap: wrap;
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,11 @@
+.alert{
+    text-align: center;
+    padding: 100px;
+}
+.alertimg{
+    width: 50%
+}
+.alert p{
+    font-size: 20px;
+    font-weight: 600;
+}

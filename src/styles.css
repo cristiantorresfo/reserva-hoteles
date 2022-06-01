@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;  
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+body::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #0452b8;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: #027490;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
